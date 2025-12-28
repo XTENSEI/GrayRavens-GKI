@@ -1,0 +1,13 @@
+**-Added TC cake optimization
+-Added Preempt
+-Kprobes hook mode
+-Upstream to 5.10.247 Kernel
+-Performance Optimizations
+-IO Scheduler Optimizations
+-Less stall under pressure
+-Faster RCU
+-Making use of LRU
+-PSI optimizations
+-Kyber and BFQ schedulers
+-MTK 500hz
+-Faster ram reclaim
