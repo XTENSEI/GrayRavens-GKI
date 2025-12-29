@@ -15,20 +15,20 @@ Spectra Lineup = For snapdragon devices running 5.10 kernels
                                       
                                                         Credits : 
                                     
-                    Kanagawa Yamada for SuiKernel Guide and patches + preempt (https://github.com/LoggingNewMemory)
+    Kanagawa Yamada for SuiKernel Guide and patches + preempt (https://github.com/LoggingNewMemory)
           
-                    Ren Shirayuki for kernel common 5.10 repo and some advice (https://github.com/Shirayuki39)
+    Ren Shirayuki for kernel common 5.10 repo and some advice (https://github.com/Shirayuki39)
          
-                    BoltXNext for helping me build GKI kernel (https://github.com/Kingfinik98)
+    BoltXNext for helping me build GKI kernel (https://github.com/Kingfinik98)
           
-                    Android Developers Team for supporting me
+    Android Developers Team for supporting me
           
-                    rsuntk for Base KernelSU Source Driver (https://github.com/rsuntk)
+    rsuntk for Base KernelSU Source Driver (https://github.com/rsuntk)
           
-                    simonpunk for susfs (https://gitlab.com/simonpunk)
+    simonpunk for susfs (https://gitlab.com/simonpunk)
           
-                    ramabondanp for the build script and tutors (https://github.com/ramabondanp)
+    ramabondanp for the build script and tutors (https://github.com/ramabondanp)
           
-                    Millenium Science HighSchool and Millenium OSS for being the best community
+    Millenium Science HighSchool and Millenium OSS for being the best community
           
-                    Transsion Devs Group for existing
+    Transsion Devs Group for existing
