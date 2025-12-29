@@ -1,5 +1,5 @@
 
-![Uploading GrayRavensGKI-jpg.jpg…]()
+![GrayRavensGKI-jpg](https://github.com/user-attachments/assets/2230f4d5-8734-458d-96f7-66dd1be85bd0)
 
 
 
