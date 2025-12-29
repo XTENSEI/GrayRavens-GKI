@@ -14,7 +14,7 @@
 
 | ʟɪɴᴇᴜᴘ | ᴄʜɪᴘꜱᴇᴛ | ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ |
 | :--- | :--- | :--- |
-| **⚡ ᴛʜᴜɴᴅᴇʀ** | ᴍᴇᴅɪᴀᴛᴇᴋ | Compiled from **Rama's** premium source code |
+| **⚡ ᴛʜᴜɴᴅᴇʀ** | ᴍᴇᴅɪᴀᴛᴇᴋ | Compiled from **Rama's**  source code |
 | **☄️ ʜʏᴘᴇʀɪᴏɴ** | ᴍᴇᴅɪᴀᴛᴇᴋ | Compiled from **MilleniumOSS** source |
 | **🌈 ꜱᴘᴇᴄᴛʀᴀ** | ꜱɴᴀᴘᴅʀᴀɢᴏɴ | Optimized for **5.10** kernel devices |
 
