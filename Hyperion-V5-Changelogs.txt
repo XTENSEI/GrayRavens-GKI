@@ -20,7 +20,7 @@ Security Patch: Latest Upstream GKI
 
 ⚡ Performance & Smoothness
 
-1000Hz Polling Rate: Increased frequency from the standard 100Hz to 1000Hz. This results in elite-tier touch responsiveness and ultra-low input latency.
+500Hz Polling Rate: Increased frequency from the standard 100Hz to 500Hz. This results in elite-tier touch responsiveness and ultra-low input latency.
 
 
 
@@ -28,7 +28,7 @@ Zen-Interactive Governor: A custom-tuned governor logic that predicts UI interac
 
 
 
-Zen I/O Scheduler: Optimized for mobile UFS storage to prioritize foreground app data, ensuring apps open instantly even during heavy background tasks.
+Zen patched I/O Schedulers: Optimized for mobile UFS storage to prioritize foreground app data, ensuring apps open instantly even during heavy background tasks.
 
 
 
@@ -92,7 +92,7 @@ Low RAM Killer (LMK) Tweaks: Prevents aggressive app closing on devices with 8GB
 
 📦 How to Flash
 
-1.Download the Hyperion-V4.zip.
+1.Download the Hyperion-V5.zip.
 
 
 
