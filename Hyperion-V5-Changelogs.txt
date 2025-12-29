@@ -10,7 +10,7 @@ Kernel Version: 5.10.247 (GKI)
 
 
 
-Toolchain: AOSP Clang 12
+Toolchain: AOSP Clang 19
 
 
 
