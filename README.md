@@ -10,6 +10,14 @@
 
 ---
 
+### 🚀 𝙒𝙝𝙮 𝘾𝙝𝙤𝙤𝙨𝙚 𝙂𝙧𝙖𝙮𝙍𝙖𝙫𝙚𝙣𝙨?
+*Unlike stock kernels that prioritize generic stability and bloat, GrayRavens is engineered for power users.*
+
+* 🛡️ **Advanced Rooting:** Integrated with **KernelSU** and **Hybrid hook mode**  Ensuring stealthiness
+* ⚡ **Enhanced Performance:** Patched with **PREEMPT** for lower latency and bring a more responsive system compared to standard stock scheduling.
+* 🔋 **Optimized Efficiency:** Removed unnecessary debug logging to improve battery life and reduce CPU overhead.
+* 🛠️ **Developer Grade:** Built using the latest **MilleniumOSS** and **Rama** kernel sources, ensuring your always up to date.
+
 ### 🪐 𝙆𝙚𝙧𝙣𝙚𝙡 𝙇𝙞𝙣𝙚𝙪𝙥𝙨 🪐
 
 | ʟɪɴᴇᴜᴘ | ᴄʜɪᴘꜱᴇᴛ | ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ |
@@ -26,7 +34,7 @@
 | Developer | Contribution |
 | :--- | :--- |
 | 👤 **[Kanagawa Yamada](https://github.com/LoggingNewMemory)** | `SuiKernel Guide` • `Patches` • `Preempt` |
-| 👤 **[Ren Shirayuki](https://github.com/Shirayuki39)** | `Kernel Common 5.10` • `Technical Advisor` |
+| 👤 **[Ren Shirayuki](https://github.com/Shirayuki39)** | `Premium Kernel Common 5.10` • `Technical Advisor` |
 | 👤 **[BoltXNext](https://github.com/Kingfinik98)** | `GKI Build Specialist` |
 | 👤 **[rsuntk](https://github.com/rsuntk)** | `Base KernelSU Source Driver` |
 | 👤 **[simonpunk](https://gitlab.com/simonpunk)** | `SUSFS Integration` |
