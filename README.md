@@ -34,7 +34,7 @@
 | Developer | Contribution |
 | :--- | :--- |
 | 👤 **[Kanagawa Yamada](https://github.com/LoggingNewMemory)** | `SuiKernel Guide` • `Patches` • `Preempt` |
-| 👤 **[Ren Shirayuki](https://github.com/Shirayuki39)** | `Premium Kernel Common 5.10` • `Technical Advisor` |
+| 👤 **[Ren Shirayuki](https://github.com/Shirayuki39)** | `Kernel Common 5.10` • `Technical Advisor` |
 | 👤 **[BoltXNext](https://github.com/Kingfinik98)** | `GKI Build Specialist` |
 | 👤 **[rsuntk](https://github.com/rsuntk)** | `Base KernelSU Source Driver` |
 | 👤 **[simonpunk](https://gitlab.com/simonpunk)** | `SUSFS Integration` |
