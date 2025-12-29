@@ -1,0 +1,70 @@
+GrayRavens Hyperion-V5 Ultra (5.10.247)
+Ultimate Performance & Gaming Edition
+
+🛠 Build Information
+Kernel Version: 5.10.247 (GKI)
+
+Toolchain: AOSP Clang 12
+
+Security Patch: Latest Upstream GKI
+
+⚡ Performance & Smoothness
+1000Hz Polling Rate: Increased frequency from the standard 100Hz to 1000Hz. This results in elite-tier touch responsiveness and ultra-low input latency.
+
+Zen-Interactive Governor: A custom-tuned governor logic that predicts UI interaction to ramp up frequencies instantly, eliminating micro-stutters during scrolling.
+
+Zen I/O Scheduler: Optimized for mobile UFS storage to prioritize foreground app data, ensuring apps open instantly even during heavy background tasks.
+
+Full Preemption (PREEMPT): Tuned for real-time responsiveness, allowing the system to interrupt background processes for high-priority UI tasks.
+
+Sched Autogroup: Better multi-core task distribution for improved multitasking.
+
+🔒 Root & Security
+KernelSU-Next Integration: Built-in support for the next-generation kernel-based root solution.
+
+Hook Method: ${{ github.event.inputs.ksu_hook_method }} (Optimized for stability and stealth).
+
+Non-GKI Compatibility: Backported TWA_RESUME logic to ensure support for older modules.
+
+🌐 Networking & Connectivity
+BBRv2 Congestion Control: Google’s latest TCP algorithm for higher throughput and reduced ping/jitter on unstable Wi-Fi and LTE.
+
+WireGuard Support: Native, kernel-level VPN implementation for maximum speed and minimum battery drain while encrypted.
+
+TC-CAKE: Advanced Queue Management (AQM) to eliminate bufferbloat, keeping your gaming pings stable while others are using the network.
+
+🧠 System & VM Optimizations
+Dalvik/ART Boost: Increased dex2oat threads to 8 for faster app installs and smoother post-reboot optimization.
+
+Virtual Memory Tuning: * Reduced Swappiness (10) to keep apps in physical RAM longer.
+
+Optimized VFS Cache Pressure for faster file seeking.
+
+Tuned Dirty Ratios to prevent "write-lag" during large file transfers.
+
+Low RAM Killer (LMK) Tweaks: Prevents aggressive app closing on devices with 8GB+ RAM.
+
+📦 How to Flash
+1.Download the Hyperion-V4.zip.
+
+2.Reboot to your preferred recovery (TWRP/OrangeFox/etc.).
+
+3.Flash the zip (AnyKernel3 will handle the installation).
+
+4. Install this Kernel manager : https://t.me/notsoAndriana/1881
+
+4.Reboot and enjoy the smoothness!
+
+5. If it still now working do another reboot
+
+Credits : Kanagawa Yamada (https://github.com/LoggingNewMemory)
+          Ren Shirayuki (https://github.com/Shirayuki39)
+          BoltXNext (https://github.com/Kingfinik98)
+          Android Developers Team
+          rsuntk (https://github.com/rsuntk)
+          simonpunk (https://gitlab.com/simonpunk)
+          ramabondanp (https://github.com/ramabondanp)
+          Millenium Science HighSchool and Millenium OSS
+          Transsion Devs Group
+
+           For making this possible :>
