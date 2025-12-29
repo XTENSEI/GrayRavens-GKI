@@ -32,3 +32,5 @@ Spectra Lineup = For snapdragon devices running 5.10 kernels
     Millenium Science HighSchool and Millenium OSS for being the best community
           
     Transsion Devs Group for existing
+
+![GrayRavensGKI-jpg](https://github.com/user-attachments/assets/083b61dd-f351-47b9-87df-6874eed635a6)
