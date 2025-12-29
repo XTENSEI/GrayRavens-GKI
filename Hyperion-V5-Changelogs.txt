@@ -1,74 +1,139 @@
-# 🌌 GrayRavens Hyperion-V5 
+GrayRavens Hyperion-V5 Ultra (5.10.247)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kernel-5.10.247-blue?style=for-the-badge&logo=linux-kernel&logoColor=white" alt="Kernel Version">
-  <img src="https://img.shields.io/badge/Android-GKI-green?style=for-the-badge&logo=android&logoColor=white" alt="Android GKI">
-  <img src="https://img.shields.io/badge/Root-KernelSU--Next-orange?style=for-the-badge&logo=superuser&logoColor=white" alt="KernelSU">
-</p>
+Ultimate Performance & Gaming Edition
 
----
 
-## 🚀 Overview
-**Hyperion-V5 Ultra** is a performance-oriented GKI kernel designed for enthusiasts who demand the absolute best from their hardware. By merging the latest upstream GKI changes with custom-tuned schedulers and networking algorithms, Hyperion delivers a "zero-lag" experience for both daily drivers and competitive gamers.
 
-### 💎 Key Highlights
-* **Ultra-Low Latency:** 1000Hz polling for near-instant touch response.
-* **Gaming Optimized:** Advanced congestion control and jitter reduction.
-* **Stealth Root:** Integrated KernelSU-Next for clean, systemless management.
+🛠 Build Information
 
----
+Kernel Version: 5.10.247 (GKI)
 
-## 🛠 Technical Specifications
 
-| Feature | Specification |
-| :--- | :--- |
-| **Linux Version** | 5.10.247 |
-| **Compiler** | AOSP Clang 19.0 |
-| **I/O Scheduler** | Zen (UFS Optimized) |
-| **CPU Governor** | Zen-Interactive |
-| **TCP Algorithm** | BBRv2 + TC-CAKE |
 
----
+Toolchain: AOSP Clang 12
 
-## ⚡ Features & Optimizations
 
-### 🎮 Performance & Gaming
-* **500HZ Polling Rate:** Dramatically reduces input lag for competitive gaming.
-* **Zen-Interactive Governor:** Intelligently predicts UI touch events to ramp up CPU clock speeds instantly, eliminating micro-stutters.
-* **Full Preemption (PREEMPT):** Prioritizes real-time user tasks over background system processes.
 
-### 🧠 Intelligence & Memory
-* **Optimized Swappiness (10):** Maximizes use of physical RAM before utilizing swap/zRAM.
-* **ART/Dalvik Boost:** App optimization utilizes 8 threads for significantly faster installation and boot times.
-* **VM Tuning:** Adjusted VFS cache and dirty ratios to ensure large file transfers don't slow down the system.
+Security Patch: Latest Upstream GKI
 
-### 🌐 Connectivity
-* **BBRv2:** Google's latest congestion control for stable pings on unstable networks.
-* **WireGuard:** Native kernel-level encryption for high-speed VPN performance with minimal battery drain.
-* **TC-CAKE:** Advanced queue management to eliminate "bufferbloat" during heavy network usage.
 
----
 
-## 📦 Installation
-> [!IMPORTANT]
-> Always backup your `boot.img` or existing kernel before flashing.
+⚡ Performance & Smoothness
 
-1.  Download the latest **Hyperion-V5 Ultra** zip.
-2.  Reboot to your custom recovery (TWRP/OrangeFox).
-3.  Flash the `.zip` file.
-4.  Reboot to System.
-5.  *(Optional)* Install the [Kernel Manager](https://t.me/notsoAndriana/1881) to monitor stats.
+1000Hz Polling Rate: Increased frequency from the standard 100Hz to 1000Hz. This results in elite-tier touch responsiveness and ultra-low input latency.
 
----
 
-## 🤝 Credits & Acknowledgements
-A huge thank you to the developers whose work formed the foundation of this project:
 
-* **Lead Developers:** [Kanagawa Yamada](https://github.com/LoggingNewMemory), [Ren Shirayuki](https://github.com/Shirayuki39), [BoltXNext](https://github.com/Kingfinik98)
-* **Core Contributors:** [rsuntk](https://github.com/rsuntk), [simonpunk](https://gitlab.com/simonpunk), [ramabondanp](https://github.com/ramabondanp)
-* **Groups & Teams:** Android Dev Team, Transsion Devs Group, Millenium Science HighSchool & OSS
+Zen-Interactive Governor: A custom-tuned governor logic that predicts UI interaction to ramp up frequencies instantly, eliminating micro-stutters during scrolling.
 
----
-<p align="center">
-  Built with ❤️ for the Android Community
-</p>
+
+
+Zen I/O Scheduler: Optimized for mobile UFS storage to prioritize foreground app data, ensuring apps open instantly even during heavy background tasks.
+
+
+
+Full Preemption (PREEMPT): Tuned for real-time responsiveness, allowing the system to interrupt background processes for high-priority UI tasks.
+
+
+
+Sched Autogroup: Better multi-core task distribution for improved multitasking.
+
+
+
+🔒 Root & Security
+
+KernelSU-Next Integration: Built-in support for the next-generation kernel-based root solution.
+
+
+
+Hook Method: ${{ github.event.inputs.ksu_hook_method }} (Optimized for stability and stealth).
+
+
+
+Non-GKI Compatibility: Backported TWA_RESUME logic to ensure support for older modules.
+
+
+
+🌐 Networking & Connectivity
+
+BBRv2 Congestion Control: Google’s latest TCP algorithm for higher throughput and reduced ping/jitter on unstable Wi-Fi and LTE.
+
+
+
+WireGuard Support: Native, kernel-level VPN implementation for maximum speed and minimum battery drain while encrypted.
+
+
+
+TC-CAKE: Advanced Queue Management (AQM) to eliminate bufferbloat, keeping your gaming pings stable while others are using the network.
+
+
+
+🧠 System & VM Optimizations
+
+Dalvik/ART Boost: Increased dex2oat threads to 8 for faster app installs and smoother post-reboot optimization.
+
+
+
+Virtual Memory Tuning: * Reduced Swappiness (10) to keep apps in physical RAM longer.
+
+
+
+Optimized VFS Cache Pressure for faster file seeking.
+
+
+
+Tuned Dirty Ratios to prevent "write-lag" during large file transfers.
+
+
+
+Low RAM Killer (LMK) Tweaks: Prevents aggressive app closing on devices with 8GB+ RAM.
+
+
+
+📦 How to Flash
+
+1.Download the Hyperion-V4.zip.
+
+
+
+2.Reboot to your preferred recovery (TWRP/OrangeFox/etc.).
+
+
+
+3.Flash the zip (AnyKernel3 will handle the installation).
+
+
+
+4. Install this Kernel manager : https://t.me/notsoAndriana/1881
+
+
+
+4.Reboot and enjoy the smoothness!
+
+
+
+5. If it still now working do another reboot
+
+
+
+Credits : Kanagawa Yamada (https://github.com/LoggingNewMemory)
+
+          Ren Shirayuki (https://github.com/Shirayuki39)
+
+          BoltXNext (https://github.com/Kingfinik98)
+
+          Android Developers Team
+
+          rsuntk (https://github.com/rsuntk)
+
+          simonpunk (https://gitlab.com/simonpunk)
+
+          ramabondanp (https://github.com/ramabondanp)
+
+          Millenium Science HighSchool and Millenium OSS
+
+          Transsion Devs Group
+
+
+
+           For making this possible :>
