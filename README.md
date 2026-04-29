@@ -1,32 +1,10 @@
 
-![GrayRavensGKI-jpg](https://github.com/user-attachments/assets/2230f4d5-8734-458d-96f7-66dd1be85bd0)
-
-
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/f6d43712-81d7-4188-9771-30ecde68a2e1" />
 
 <div align="center">
 
 # 𝙶𝚁𝙰𝚈𝚁𝙰𝚅𝙴𝙽𝚂 𝙶𝙺𝙸
 **𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭 𝘙𝘦𝘭𝘦𝘢𝘴𝘦 𝘙𝘦𝘱𝘰𝘴𝘪𝘵𝘰𝘳𝘺 𝘧𝘰𝘳 𝘎𝘒𝘐 𝘒𝘦𝘳𝘯𝘦𝘭𝘴**
-
----
-
-### 🚀 𝙒𝙝𝙮 𝘾𝙝𝙤𝙤𝙨𝙚 𝙂𝙧𝙖𝙮𝙍𝙖𝙫𝙚𝙣𝙨?
-*Unlike stock kernels that prioritize generic stability and bloat, GrayRavens is engineered for power users.*
-
-* 🛡️ **Advanced Rooting:** Integrated with **KernelSU** and **Hybrid hook mode**  Ensuring stealthiness
-* ⚡ **Enhanced Performance:** Patched with **PREEMPT** for lower latency and bring a more responsive system compared to standard stock scheduling.
-* 🔋 **Optimized Efficiency:** Removed unnecessary debug logging to improve battery life and reduce CPU overhead.
-* 🛠️ **Developer Grade:** Built using the latest **MilleniumOSS** and **Rama** kernel sources, ensuring your always up to date.
-
-### 🪐 𝙆𝙚𝙧𝙣𝙚𝙡 𝙇𝙞𝙣𝙚𝙪𝙥𝙨 🪐
-
-| ʟɪɴᴇᴜᴘ | ᴄʜɪᴘꜱᴇᴛ | ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ |
-| :--- | :--- | :--- |
-| **⚡ ᴛʜᴜɴᴅᴇʀ** | ᴍᴇᴅɪᴀᴛᴇᴋ | Compiled from **Rama's**  source code |
-| **☄️ ʜʏᴘᴇʀɪᴏɴ** | ᴍᴇᴅɪᴀᴛᴇᴋ | Compiled from **MilleniumOSS** source |
-| **🌈 ꜱᴘᴇᴄᴛʀᴀ** | ꜱɴᴀᴘᴅʀᴀɢᴏɴ | Optimized for **5.10** kernel devices |
-
----
 
 ### 💎 𝘼𝙘𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙢𝙚𝙣𝙩𝙨 💎
 *✨ Dedicated to the developers who make this possible ✨*
@@ -35,7 +13,6 @@
 | :--- | :--- |
 | 👤 **[Kanagawa Yamada](https://github.com/LoggingNewMemory)** | `SuiKernel Guide` • `Patches` • `Preempt` |
 | 👤 **[Ren Shirayuki](https://github.com/Shirayuki39)** | `Kernel Common 5.10` • `Technical Advisor` |
-| 👤 **[BoltXNext](https://github.com/Kingfinik98)** | `GKI Build Specialist` |
 | 👤 **[rsuntk](https://github.com/rsuntk)** | `Base KernelSU Source Driver` |
 | 👤 **[simonpunk](https://gitlab.com/simonpunk)** | `SUSFS Integration` |
 | 👤 **[ramabondanp](https://github.com/ramabondanp)** | `Build Script Architect` • `Tutor` |
